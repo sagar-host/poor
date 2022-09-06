@@ -12,4 +12,12 @@
         width: 375px;
     }
   }
+  .control-arrow{
+    background-color: rgba(13, 49, 167, 0.233) !important;
+  }
+  .carousel-status{
+    position: relative !important;
+    height: 0px;
+    width: 0px;
+  }
   
