@@ -1,0 +1,15 @@
+.caro{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+    padding-top: 10vmax;
+    width: 800px;
+}
+@media only screen and (max-width: 600px) {
+    .caro{
+        width: 375px;
+    }
+  }
+  
