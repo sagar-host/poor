@@ -8,14 +8,14 @@ function carousel() {
   return (
     <Carousel className='caro' autoPlay>
 
-    <iframe width="100%" height='100%' controls className='media'
+    <iframe title="heal" width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/0RQWv1ybsjM">
 </iframe>
     <video width="90%"  className="media">
       <source src="https://res.cloudinary.com/dcjgktaob/video/upload/v1662501637/ved4_ckfi2m.mp4" />
       Your browser does not support the video tag.
     </video>
-    <iframe width="100%" height='100%' controls className='media'
+    <iframe title="heak" width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/SVcsDDABEkM">
 </iframe>
     
