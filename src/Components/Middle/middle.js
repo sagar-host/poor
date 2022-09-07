@@ -17,7 +17,7 @@ function middle() {
         <Typewriter
   options={{
    
-    strings:  ["Hello, there","I'm a Web Developer","a FrontEnd Enginner","a Seo Analyst", "Have a nice day!","Thank You" ],
+    strings:  ["Hello, there","Work as "a Sales Enginner","a Web Developer","a FrontEnd Enginner","a Seo Analyst", "Have a nice day!","Thank You" ],
     autoStart: true,
     loop: true,
   
