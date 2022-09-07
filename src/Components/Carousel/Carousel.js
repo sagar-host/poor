@@ -8,13 +8,13 @@ function carousel() {
   return (
     <Carousel className='caro' autoPlay>
 
-    <iframe title="heal" width="100%" height='100%' controls className='media'
+    <iframe  allow="fullscreen" frameBorder="0" title="heal" width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/0RQWv1ybsjM">
 </iframe>
-       <iframe width="100%" height='100%' controls className='media'
+       <iframe  allow="fullscreen" frameBorder="0" width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/9EaY11hAod8"  title="Tracker 22">
 </iframe>
-    <iframe title="heak" width="100%" height='100%' controls className='media'
+    <iframe  allow="fullscreen" frameBorder="0" title="heak" width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/SVcsDDABEkM">
 </iframe>
     
