@@ -13,6 +13,9 @@
     
 	
   }
+  .control-arrow {
+	height: 20% !important;
+  }
   .texm{
 	position: absolute;
 	top: 13.3vmax;
