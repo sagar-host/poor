@@ -55,14 +55,14 @@
 	  }
   }
   
-@media only screen and (max-width: 375px) and (max-width: 400px) {
+@media only screen and (min-width: 375px) and (max-width: 400px) {
     .Tool{
 	
         width: 375px;
     }
 	.texm{
 		position: absolute;
-		
+		padding: 20px;
 		top: 46vmax;
 		left: 24vmax;
 		font-family: 'Tangerine', serif;
@@ -71,7 +71,45 @@
 	  }
 	.tex{
 		padding: 40px;
-		width: 330px;
+		
+	  }
+  }
+  @media only screen and (min-width: 360px) and (max-width: 375px) {
+    .Tool{
+	
+        width: 365px;
+    }
+	.texm{
+		position: absolute;
+		padding: 20px;
+		top: 46vmax;
+		left: 24vmax;
+		font-family: 'Tangerine', serif;
+		font-size: 28px;
+	
+	  }
+	.tex{
+		padding: 40px;
+		
+	  }
+  }
+  @media only screen and (min-width: 380px) and (max-width: 400px) {
+    .Tool{
+	
+        width: 390px;
+    }
+	.texm{
+		position: absolute;
+		padding: 20px;
+		top: 46vmax;
+		left: 24vmax;
+		font-family: 'Tangerine', serif;
+		font-size: 28px;
+	
+	  }
+	.tex{
+		padding: 40px;
+		
 	  }
   }
   
@@ -90,9 +128,10 @@
 	
 	  }
 	.tex{
-		padding: 55px;
-		width: 330px;
+		padding: 40px;
+		width: 410px;
 	  }
+	
   }
 
   @media only screen and (min-device-width: 760px) and (max-device-width: 1200px) {
@@ -101,8 +140,7 @@
         width: 1075px;
     }
 	
-  }
-  .fulltool{
+  }  .fulltool{
 
 	display: flex;
     flex-wrap: wrap;
