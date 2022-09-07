@@ -35,10 +35,19 @@
 
   }
 
+@media only screen and (max-width: 700px) {
+    .Tool{
+	
+        width: 400px;
+    }
+}
+
 @media only screen and (max-width: 800px) {
     .Tool{
 	
-        
+        width: 412px;
+	    
+	    
     }
 	.texm{
 		position: absolute;
