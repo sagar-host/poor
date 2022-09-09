@@ -16,11 +16,7 @@ function Project() {
     {/* <Card.Img variant="top" src={require('../Images/projectpic.png')} className='cardImg'/> */}
    <h1 className='cardImg'>My Projects</h1>
    
-    <Card.Body>
-      <Card.Text className='text1'>
-      Ecommerce || Login  Registration || CRUD
-      </Card.Text>
-    </Card.Body>
+    
     <Link to="/myproject"><button className='button_slide slide_down'>Click to see More</button></Link>
 
 
