@@ -16,6 +16,9 @@
     .caro{
         width: 375px;
     }
+     .fie{
+      height: 220px !important;
+    }
   }
   .control-arrow{
     background-color: rgba(13, 49, 167, 0.233) !important;
