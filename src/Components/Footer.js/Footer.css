@@ -207,7 +207,7 @@ margin-left: 41.5vmax;
         .footer-menu{
         
             margin-right: 45vmax;
-            padding: 2vmax;
+            padding: 0vmax;
             margin-top: 1vmax;
             width: 5vmax;
             height: 2vmax;
@@ -216,7 +216,7 @@ margin-left: 41.5vmax;
              .footer-bottom{
                 position: absolute;
            
-                margin-left: 18vmax;
+                margin-left: 15vmax;
                     height: 1vmax;
                    width: 20vmax;
                    margin-top: 18vmax;
