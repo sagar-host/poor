@@ -6,21 +6,36 @@ import { Carousel } from 'react-responsive-carousel';
 
 function carousel() {
   return (
-    <Carousel className='caro' autoPlay>
+    <div className="caro">
+    <Carousel className="caro" autoPlay>
+<div className='fie'>
 
-    <iframe  allow="fullscreen" frameBorder="0" title="heal" width="100%" height='100%' controls className='media'
-src="https://www.youtube.com/embed/0RQWv1ybsjM">
+<iframe width="100%" height='100%' controls className='media'
+src="https://www.youtube.com/embed/0RQWv1ybsjM" title="My Daily Marathon Tracker">
 </iframe>
-       <iframe  allow="fullscreen" frameBorder="0" width="100%" height='100%' controls className='media'
+</div>
+ 
+
+<div className='fie'>
+<iframe width="100%" height='100%' controls className='media'
 src="https://www.youtube.com/embed/9EaY11hAod8"  title="Tracker 22">
 </iframe>
-    <iframe  allow="fullscreen" frameBorder="0" title="heak" width="100%" height='100%' controls className='media'
-src="https://www.youtube.com/embed/SVcsDDABEkM">
+  
+</div>
+
+
+<div className='fie'>
+<iframe width="100%" height='100%' controls className='media'
+src="https://www.youtube.com/embed/SVcsDDABEkM"  title="Tracker">
 </iframe>
-    
+  
+  
+</div>
+
  
    
 </Carousel>
+</div>
   )
 }
 
