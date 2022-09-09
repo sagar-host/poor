@@ -64,15 +64,15 @@ font-family: 'Times New Roman', Times, serif;}
 
 @media screen and (max-width: 500px) {
     .text1{
-        margin-left: 5.8vmax;
-        padding: 2vmax;
+        margin-left: 3vmax;
+      
        
    
     }
    
 
     .button_slide {
-       margin-left: 6.3vmax;
+      
 
     }
 }
